@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "kreepkroop"
+title: "kryptc"
 
 # A description of your site for meta tag, search engine results.
 description: "Hello, I'm Kripa and you've tumbled into my personal rabbit hole."
@@ -30,9 +30,9 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: About
-    url: /
+    url: /about
   - text: Blog
-    url: /blog
+    url: /
   - text: Style Guide
     url: /style-guide/
   - text: Tags

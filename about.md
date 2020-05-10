@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: About Me
+description: Page about kripa
+feature_image: images/about.jpeg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Hello! My name is **Kripa Anne** and I'm a senior year Computer Science student at the [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/). I am an Honours research student in the [Information Retrieval and Extraction Lab](https://irel.iiit.ac.in/), a part of the Language Technologies Research Centre (LTRC) under Prof. Vasudeva Varma. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+I am currently working on a project related to Continuous Style Transfer to build a system that provides embeddings for intermediate styles so as to get control over the degree of change in style. Our current architecture uses a Denoising Autoencoder and Back Translation model. Problems like these help  
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite> Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+In my free time, I often read and write fiction, play table tennis and make imaginary travel itineraries. Theatre production has always been one of my passions too, so you might occasionally catch me belting showtunes that I should have left alone. However, I love learning about new things, so you can find a mixed bag of articles and essays in my blog!
 
-*Thank You for reading!*
+*Thank you for reading!*
