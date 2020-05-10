@@ -7,9 +7,9 @@ feature_image: images/about.jpeg
 
 Hello! My name is **Kripa Anne** and I'm a senior year Computer Science student at the [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/). I am an Honours research student in the [Information Retrieval and Extraction Lab](https://irel.iiit.ac.in/), a part of the Language Technologies Research Centre (LTRC) under Prof. Vasudeva Varma. 
 
-I am currently working on a project related to Continuous Style Transfer to build a system that provides embeddings for intermediate styles so as to get control over the degree of change in style. Our current architecture uses a Denoising Autoencoder and Back Translation model. Problems like these help  
+I am currently working on a project related to Continuous Style Transfer to build a system that provides embeddings for intermediate styles so as to get control over the degree of change in style. Our current architecture uses a Denoising Autoencoder and Back Translation model. Problems like these help us get closer to understanding how machines learn language and are fundamental to improving NLP models. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite> Neil Gaiman</cite>
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite> - Neil Gaiman</cite>
 
 In my free time, I often read and write fiction, play table tennis and make imaginary travel itineraries. Theatre production has always been one of my passions too, so you might occasionally catch me belting showtunes that I should have left alone. However, I love learning about new things, so you can find a mixed bag of articles and essays in my blog!
 

@@ -5,13 +5,18 @@
         <description>Hello, I'm Kripa and you've tumbled into my personal rabbit hole.</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2020 22:43:13 +0530</pubDate>
-        <lastBuildDate>Sun, 10 May 2020 22:43:13 +0530</lastBuildDate>
+        <pubDate>Sun, 10 May 2020 23:01:50 +0530</pubDate>
+        <lastBuildDate>Sun, 10 May 2020 23:01:50 +0530</lastBuildDate>
         <generator>Jekyll v4.0.0</generator>
         
             <item>
                 <title>India as a Linguistic Area</title>
-                <description>&lt;p&gt;A &lt;strong&gt;linguistic area&lt;/strong&gt; refers to a geographical area in which, due to borrowing and language contact, languages of a region come to share certain structural or lexical features as a result of their close proximity. The elements shared by these languages are called &lt;strong&gt;areal features&lt;/strong&gt;, and are acquired rather than inherited. Languages are generally classified typologically or genetically; the genetic classification of languages points to the existence of language families, wherein languages can be grouped based on their shared inheritance from a common ancestor. However, a linguistic area is a result of the diffusion of linguistic traits over genetic boundaries so that genetically dissimilar languages or dialects can be grouped together due to common features that they have acquired as a result of contact.&lt;/p&gt;
+                <description>&lt;figure class=&quot;image-card width-full caption&quot;&gt;
+  &lt;img src=&quot;/images/india-ling.jpg&quot; alt=&quot;Mural&quot; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;A &lt;strong&gt;linguistic area&lt;/strong&gt; refers to a geographical area in which, due to borrowing and language contact, languages of a region come to share certain structural or lexical features as a result of their close proximity. The elements shared by these languages are called &lt;strong&gt;areal features&lt;/strong&gt;, and are acquired rather than inherited. Languages are generally classified typologically or genetically; the genetic classification of languages points to the existence of language families, wherein languages can be grouped based on their shared inheritance from a common ancestor. However, a linguistic area is a result of the diffusion of linguistic traits over genetic boundaries so that genetically dissimilar languages or dialects can be grouped together due to common features that they have acquired as a result of contact.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -45,15 +50,12 @@
 
 &lt;p&gt;The influence goes deeper than this, and features related to the morphology and grammar of these language families are exchanged. For instance, Nepal Bhasa (Newar) is a Sino-Tibetan language distantly related to Chinese but owing to its contact with neighbouring Indo-Iranian languages, has developed traits like &lt;strong&gt;noun inflection&lt;/strong&gt; and &lt;strong&gt;verb tenses&lt;/strong&gt; that are typical of Indo-European languages, but rare in Sino-Tibetan.&lt;/p&gt;
 
-&lt;!-- &lt;style type=&quot;images&quot; width=&quot;240vh&quot;&gt; --&gt;
-
 &lt;figure class=&quot;image-card width-full caption&quot;&gt;
   &lt;img src=&quot;/images/nagaland.jpg&quot; alt=&quot;HornbillFest&quot; /&gt;
   
   &lt;figcaption class=&quot;caption-text&quot;&gt;People dancing at the Nagaland Hornbill Festival&lt;/figcaption&gt;
   
 &lt;/figure&gt;
-&lt;!-- &lt;/style&gt; --&gt;
 
 &lt;p&gt;Irrespective of family, most Indian languages follow a &lt;strong&gt;Subject-Object-Verb (SOV)&lt;/strong&gt; typological structure. Consider the sentence “The boy throws the ball”.&lt;/p&gt;
 &lt;ul&gt;
@@ -106,7 +108,12 @@
         
             <item>
                 <title>Languages, Dialects and Social Behaviour</title>
-                <description>&lt;blockquote&gt;
+                <description>&lt;figure class=&quot;image-card width-full caption&quot;&gt;
+  &lt;img src=&quot;/images/Fisherman-Kerala.jpg&quot; alt=&quot;kerala fisherman&quot; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
   &lt;p&gt;“A language is a dialect with an army and a navy.” &lt;cite&gt;― Max Weinreich &lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 

@@ -3,9 +3,10 @@ layout: post
 title: "India as a Linguistic Area"
 description: "Indian languages share several properties that prompted Emeneau to suggest that India was a linguistic area."
 date: 2020-04-26
-feature_image: images/india-ling.jpg
+<!-- feature_image: images/india-ling.jpg -->
 tags: [linguistics, india]
 ---
+{% include image_full.html imageurl="/images/india-ling.jpg" title="Mural" %}	
 
 A **linguistic area** refers to a geographical area in which, due to borrowing and language contact, languages of a region come to share certain structural or lexical features as a result of their close proximity. The elements shared by these languages are called **areal features**, and are acquired rather than inherited. Languages are generally classified typologically or genetically; the genetic classification of languages points to the existence of language families, wherein languages can be grouped based on their shared inheritance from a common ancestor. However, a linguistic area is a result of the diffusion of linguistic traits over genetic boundaries so that genetically dissimilar languages or dialects can be grouped together due to common features that they have acquired as a result of contact.
 
@@ -38,10 +39,7 @@ Similarly, several **phonetic traits** are common to Indian languages, like the 
 
 The influence goes deeper than this, and features related to the morphology and grammar of these language families are exchanged. For instance, Nepal Bhasa (Newar) is a Sino-Tibetan language distantly related to Chinese but owing to its contact with neighbouring Indo-Iranian languages, has developed traits like **noun inflection** and **verb tenses** that are typical of Indo-European languages, but rare in Sino-Tibetan.
 
-<!-- <style type="images" width="240vh"> -->
-
 {% include image_full.html imageurl="/images/nagaland.jpg" title="HornbillFest" caption="People dancing at the Nagaland Hornbill Festival" %}	
-<!-- </style> -->
 
 Irrespective of family, most Indian languages follow a **Subject-Object-Verb (SOV)** typological structure. Consider the sentence “The boy throws the ball”.
 - Malayalam: *kuṭṭi pant eṟiyunnu* (കുട്ടി പന്ത് എറിയുന്നു)

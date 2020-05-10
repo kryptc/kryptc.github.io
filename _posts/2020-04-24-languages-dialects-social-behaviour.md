@@ -3,9 +3,10 @@ layout: post
 title: "Languages, Dialects and Social Behaviour"
 description: "Differentiating between a language and a dialect and discussing the social implications on fields like education springing from attitudes towards different varieties."
 date: 2020-04-24
-feature_image: images/Fisherman-Kerala.jpg
+<!-- feature_image: images/Fisherman-Kerala.jpg -->
 tags: [linguistics, sociolinguistics, india, education]
 ---
+{% include image_full.html imageurl="/images/Fisherman-Kerala.jpg" title="kerala fisherman" %}	
 
 >“A language is a dialect with an army and a navy.” <cite>― Max Weinreich </cite>
 
