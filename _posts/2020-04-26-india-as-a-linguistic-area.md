@@ -48,7 +48,7 @@ Irrespective of family, most Indian languages follow a **Subject-Object-Verb (SO
 
 Here, the subject (the boy / *kuṭṭi*) is followed by the object (the ball / *pant*) and ends with the verb (throws / *eṟiyunnu*). However, this is not always the case. Tibeto-Burman languages like Karenic and Baic have SVO (subject–verb–object) word order, like Chinese.
 
-Most Indian languages are also **morphologically rich**, which means they have a relatively free words order. Unlike the syntax-heavy English, Indian languages allows ‘word chunks’ to move, as the morphological elements carry a lot of grammatical information. Consider the sentence “The girl hit the boy”. If we switch the subject and object, we get “The boy hit the girl”, which doesn’t mean the same. However, in Hindi, the same sentence “*ladki ne ladke ko mara*” can be rewritten as “*ladke ko ladki ne mara*” and the meaning would remain the same.
+Most Indian languages are also **morphologically rich**, which means they have a relatively free word order. Unlike the syntax-heavy English, Indian languages allows ‘word chunks’ to move, as the morphological elements carry a lot of grammatical information. Consider the sentence “The girl hit the boy”. If we switch the subject and object, we get “The boy hit the girl”, which doesn’t mean the same. However, in Hindi, the same sentence “*ladki ne ladke ko mara*” can be rewritten as “*ladke ko ladki ne mara*” and the meaning would remain the same.
 
 Another common feature is the **pro-drop**, where redundant pronouns (pleonastic expletives) are not used. The sentence “It is raining” contains the pronoun ‘it’ which is semantically vacuous. In Tamil, the same sentence would be written as *maḻai peykiṟatu* (மழை பெய்கிறது) without a pronoun. 
 
@@ -69,5 +69,5 @@ The Indian Linguistic Area has many more shared grammatical features, like the u
 
 ### _References_:
 - **India as a Linguistic Area**, M. B. Emeneau
-- **Language: Its Structure and Use**,Edward Finegan
+- **Language: Its Structure and Use**, Edward Finegan
 - [Tibeto-Burman languages](https://www.britannica.com/topic/Tibeto-Burman-languages)
