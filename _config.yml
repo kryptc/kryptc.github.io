@@ -25,7 +25,7 @@ url: "https://kryptc.github.io"
 favicon: images/siteicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: ""  
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -34,9 +34,9 @@ navigation:
   - text: Blog
     url: /
   - text: Style Guide
-    url: /style-guide/
+    url: /style-guide
   - text: Tags
-    url: /tags/
+    url: /tags
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
