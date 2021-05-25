@@ -5,9 +5,45 @@
         <description>Hello, I'm Kripa and you've tumbled into my personal rabbit hole.</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 May 2021 20:36:17 +0530</pubDate>
-        <lastBuildDate>Tue, 25 May 2021 20:36:17 +0530</lastBuildDate>
+        <pubDate>Wed, 26 May 2021 00:00:36 +0530</pubDate>
+        <lastBuildDate>Wed, 26 May 2021 00:00:36 +0530</lastBuildDate>
         <generator>Jekyll v4.0.0</generator>
+        
+            <item>
+                <title>Kant's True Vocation Of Reason</title>
+                <description>&lt;figure class=&quot;image-card width-full caption&quot;&gt;
+  &lt;img src=&quot;/images/kant.jpg&quot; alt=&quot;Immanuel Kant&quot; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;“The true vocation of reason must be to produce a will that is good, not perhaps as a means to other purposes, but good in itself, for which reason was absolutely necessary.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;— Immanuel Kant,  &lt;strong&gt;‘The Good Will’&lt;/strong&gt;  in &lt;strong&gt;Groundwork of the Metaphysics of Morals&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;In the Groundwork of the Metaphysics of Morals, Immanuel Kant elaborates on his theories of deontological ethics revolving around a sense of duty and some universal moral principles. His primary focus is on how the only thing good in the world is a good will. Talents of the mind like courage and understanding are good and desirable but can be extremely harmful if the will which makes use of these talents is corrupt. Likewise, gifts of fortune like honour and happiness are beneficial for a person only if a good will exists which can correct the influence of these on the mind. Good will, however, is good in itself and remains good even if it is deprived of other capacities.&lt;/p&gt;
+
+&lt;p&gt;Kant believes that rational beings like humans are endowed with reason, and this reason helps them follow their moral duty and act towards moral law. The moral laws are represented as categorical imperatives, wherein these laws must always be followed, irrespective of the situation or consequences. The moral demands brought about by a good will are rational compulsions and help make a person truly ‘good’.&lt;/p&gt;
+
+&lt;p&gt;Kant starts his argument on shaky ground by assuming that everything nature gives humans is for a reason. He seeks to find inherent meaning and value in life and nature, despite the failure of mankind to find purpose or rationality in the universe. He says that people with a more cultivated reason tend to be unhappier. They purposely engage themselves with the enjoyment of life and happiness and hence are led further away from what Kant believes is true satisfaction. They are left with something if a hatred towards reason and begin to envy the common man, whose decisions and behaviour are guided more by the baser instincts than by reason, and who, as a result, is happier. By this logic, an animal with no way to reason is always going to be happier than any human with an ounce of reasoning capabilities.&lt;/p&gt;
+
+&lt;p&gt;The last issue with the argument is the binary assignment of purposes to reason. If reason is not responsible for happiness and self-preservation, why must it automatically be responsible for a higher purpose of generating a pure good will in rational beings? Kant fails to take into account that there must be other valid purposes for reason to exist, and it could also simply be a supplement to the welfare of a being, rather than a sole causator.&lt;/p&gt;
+
+&lt;p&gt;This analysis doesn’t take into account the other obvious flaws with his theory of ‘good will’, like what happens if two universal laws come into conflict with one another (such as keeping promises and helping someone out) or if there is any net good that comes out of actions directed solely by good will.&lt;/p&gt;
+</description>
+                <pubDate>Fri, 05 Mar 2021 00:00:00 +0530</pubDate>
+                <link>http://localhost:4000/kant-vocation-of-reason</link>
+                <guid isPermaLink="true">http://localhost:4000/kant-vocation-of-reason</guid>
+                
+                <category>philosophy</category>
+                
+                <category>ethics</category>
+                
+                <category>analysis</category>
+                
+                
+            </item>
         
             <item>
                 <title>India as a Linguistic Area</title>
