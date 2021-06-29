@@ -33,8 +33,8 @@ navigation:
     url: /about
   - text: Blog
     url: /
-  - text: Style Guide
-    url: /style-guide
+#   - text: Style Guide
+#     url: /style-guide
   - text: Tags
     url: /tags
 
