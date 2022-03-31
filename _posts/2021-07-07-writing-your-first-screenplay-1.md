@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: skip
 title: "Writing Your First Screenplay - Part One"
 description: "First part of beginner's guide to screenwriting."
 date: 2021-07-07
