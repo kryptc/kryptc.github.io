@@ -1,11 +1,11 @@
----
-layout: skip
+<!-- ---
+layout: post
 title: "Writing Your First Screenplay - Part One"
 description: "First part of beginner's guide to screenwriting."
 date: 2021-07-07
 <!-- feature_image: images/coraline.jpg -->
 tags: [film, guide, writing]
----
+--- -->
 {% include image_full.html imageurl="/images/coraline.jpg" title="Still from Coraline (2009)" %}	
 
 Opinion pieces on how to get started on writing your first screenplay are a dime a dozen. Some of them are actually useful, some of them parrot glib mantras back at you, while some of them annoy you enough to make you wish you never quit your day job. I don’t pretend to know better than any of those people – in fact, I can guarantee you that I know much lesser than any of them, due to the simple fact that I’m 21 and I’ve never written a complete piece of fiction in my life, let alone a screenplay.
