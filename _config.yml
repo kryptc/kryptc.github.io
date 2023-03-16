@@ -31,6 +31,8 @@ google_analytics: ""
 navigation:
   - text: About
     url: /about
+  - text: Projects
+    url: /projects
   - text: Blog
     url: /
 #   - text: Style Guide
